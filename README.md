@@ -7,7 +7,7 @@
 
 Somos la alianza definitiva de supervillanos. Mientras los héroes se dividen entre Metrópolis, Gotham y Nueva York, nosotros hemos hecho lo que ellos jamás lograron: unirnos. DC, Marvel, no importa el universo — aquí solo importa el objetivo.
 
-## Estructura de la organización
+## Estructura de la organización !!!
 
 ```
 📁 planes/          → Operaciones aprobadas por el Consejo
@@ -15,7 +15,7 @@ Somos la alianza definitiva de supervillanos. Mientras los héroes se dividen en
 📁 guaridas/        → Ubicaciones y estado de nuestras bases
 📁 inteligencia/    → Expedientes de los héroes enemigos
 📄 misiones.yaml    → Estado global de todas las misiones
-📄 README.md        → Documentacion principal del repositorio 
+📄 prueba-misiones.yaml    → Estado global de todas las pruebas de las misiones
 ```
 
 ## El Consejo de Villanos !!!
