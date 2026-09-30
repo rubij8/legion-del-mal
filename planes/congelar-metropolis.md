@@ -5,5 +5,5 @@ El objetivo es congelar la ciudad de Métrópolis para detener el tiempo y prese
 
 ## Pasos 
 
-1.  ** Preparación del equipo** : asegurate de contar con el equipo necesario invcluyendo tarjetas.
+1.  ** Preparación del equipo** : asegurate de contar con el equipo necesario incluyendo tarjetas.
 
