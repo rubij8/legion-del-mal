@@ -1,4 +1,4 @@
-![Estático](https://img.shields.io/badge/Legion--del--Mal-Activa-fuchsia)
+![Estático](https://img.shields.io/badge/Legion--del--Mal-No--Activa-fuchsia)
 
 ![Workflow](https://img.shields.io/github/actions/workflow/status/rubij8/legion-del-mal/ci.yml)
 ![Release](https://img.shields.io/github/v/release/rubij8/legion-del-mal)
